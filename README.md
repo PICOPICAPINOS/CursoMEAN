@@ -1,2 +1,0 @@
-# CursoMEAN
-Ejercicios
